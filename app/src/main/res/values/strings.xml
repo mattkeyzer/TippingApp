@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TippingApp</string>
+    <string name="txtTitle">Tip Calculator</string>
+    <string name="txtCostHint">Cost of Meal</string>
+    <string name="txtDirections">Select Desired Tip</string>
+    <string-array name="txtTipSpinner">
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+    </string-array>
+    <string name="txtCalculateBtn">Calculate Tip</string>
+    <string name="txtTip">Tip</string>
+    <string name="txtTotalWTip">Total With Tip</string>
+
+</resources>
